@@ -42,7 +42,7 @@ Email ingresado: gluis-2020232@kinal.edu.gt
 Usuario: gluis2020232
 Password: 5ch5UrvV
 "Mi Token" Mi nueva contraseña
-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
+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
 
 -Enlace para generar un nuevo Token
 https://www.youtube.com/watch?v=hlYkxZrdeBI
